@@ -1,0 +1,1 @@
+print("chào mừng các bạn đến với khóa học Python 2022")
